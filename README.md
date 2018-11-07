@@ -21,7 +21,7 @@ position that has received an assignment, and a ROKU position that has
 been rolled.
 
 ```
-$ go run tastypl.go -input 1C857000 -printpl -positions
+$ go run tastypl.go -input 1C857000.csv -printpl -positions
 ----- Overall statistics ----
 Number of transactions:    46    (in 97 days => 0.5/day avg)
 Realized P&L:            2246.00
