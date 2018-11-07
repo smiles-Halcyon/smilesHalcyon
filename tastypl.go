@@ -8,7 +8,7 @@ test "" = "$(grep '^Signed-off-by: ' "$1" |
 
 >>>>>>> 1b0ca879c0bd016d5e42290777e1cd3f3f4600ee
 
-$ go run tastypl.go -input demo.csv -printpl -positions
+$ go run tastypl.go -input 1C857000.csv -printpl -positions
 
 package main
 
