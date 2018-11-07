@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 test "" = "$(grep '^Signed-off-by: ' "$1" |
 	 sort | uniq -c | sed -e '/^[ 	]*1[ 	]/d')" || {
 	echo >&2 Duplicate Signed-off-by lines.
 	exit 1
 }
+=======
+
+>>>>>>> 1b0ca879c0bd016d5e42290777e1cd3f3f4600ee
 
 $ go run tastypl.go -input demo.csv -printpl -positions
 

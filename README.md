@@ -1,5 +1,7 @@
 # tastypl
 
+
+
 ## Description
 
 tastypl is a [Go](https://golang.org/) program that imports your
@@ -39,13 +41,13 @@ PCLN    896.00
 ROKU    122.00
 ----- Current portfolio -----
 AAPL  (2 positions)
-  Feb 16 short 1 $170 call @ 7.2 [BEP=177.20] 
-  Feb 16 short 1 $170 put  @ 5.35 [BEP=164.65] 
+  Feb 16 short 1 $170 call @ 7.2 [BEP=177.20]
+  Feb 16 short 1 $170 put  @ 5.35 [BEP=164.65]
   --> 170 straddle @ 12.55 net credit
 BIDU  (3 positions) [RPL=1148.00]
   long  100 shares @ 250.00 (adj. cost basis 247.66)
-  Feb 16 short 1 $217.5 call @ 7.4 [BEP=224.90] 
-  Mar 16 short 1 $250 put  @ 32 [BEP=218.00] 
+  Feb 16 short 1 $217.5 call @ 7.4 [BEP=224.90]
+  Mar 16 short 1 $250 put  @ 32 [BEP=218.00]
 ROKU  (1 position) [RPL=122.00]
   Feb 16 short 1 $44 put  @ 4.78 [BEP=38.00]  (net credit 6.00)
 ```
@@ -77,4 +79,4 @@ EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
 MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO
 THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM
 PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR
-CORRECTION. 
+CORRECTION.
